@@ -1,4 +1,4 @@
 # A-Generative-Adversarial-Neural-Network
 
 
-Buildinga fashion gan 
+Building a fashion gan 
