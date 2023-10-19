@@ -1,6 +1,6 @@
 # A-Generative-Adversarial-Neural-Network
 
-This is a Python code repository that implements a Generative Adversarial Network (GAN) for generating fashion images using TensorFlow.
+Fashion GAN is a Python code repository that implements a Generative Adversarial Network (GAN) for generating fashion images using TensorFlow. GANs are a type of deep learning model composed of two competing networks: a generator and a discriminator. The generator learns to create realistic images, while the discriminator learns to distinguish between real and generated images. This adversarial training process leads to the generation of high-quality images.
 
 ```markdown
 
