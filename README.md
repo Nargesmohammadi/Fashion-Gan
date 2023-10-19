@@ -8,7 +8,7 @@ Fashion GAN is a Python code repository that implements a Generative Adversarial
 
 1. Clone the repository:
 
-```bash
+
 git clone <repository_url>
 ```
 
