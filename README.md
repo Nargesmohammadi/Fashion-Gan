@@ -1,10 +1,8 @@
 # A-Generative-Adversarial-Neural-Network
 
+This is a Python code repository that implements a Generative Adversarial Network (GAN) for generating fashion images using TensorFlow.
 
 ```markdown
-# Fashion GAN
-
-This is a Python code repository that implements a Generative Adversarial Network (GAN) for generating fashion images using TensorFlow.
 
 ## Installation
 
