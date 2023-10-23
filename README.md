@@ -6,13 +6,7 @@ Fashion GAN is a Python code repository that implements a Generative Adversarial
 
 ## Installation
 
-1. Clone the repository:
-
-
-git clone <repository_url>
-```
-
-2. Install the required dependencies:
+ Install the required dependencies:
 
 ```bash
 pip install tensorflow tensorflow_datasets matplotlib
